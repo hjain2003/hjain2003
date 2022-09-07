@@ -6,7 +6,7 @@
 <b>Languages and Tools :</b><br>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
 <img src="https://img.icons8.com/color/344/css3.png" height="35">
-<img src="https://img.icons8.com/color/2x/bootstrap.png">
+<img src="https://img.icons8.com/color/2x/bootstrap.png" height="35">
 <img src="https://img.icons8.com/ios-filled/344/javascript-logo.png" height="33">
 <img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35">
 <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="33">&nbsp;
