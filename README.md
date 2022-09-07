@@ -14,7 +14,7 @@
 <img src="https://img.icons8.com/color/344/python--v1.png" height="35">
 <img src="https://img.icons8.com/color/344/mysql-logo.png" height="40">
 <img src="https://img.icons8.com/color/344/flutter.png" height="33">
-<img src="https://img.icons8.com/color/2x/firebase.png height="35">
+<img src="https://img.icons8.com/color/2x/firebase.png" height="35">
 
 
 <!---
