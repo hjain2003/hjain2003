@@ -2,8 +2,10 @@
 - 👀 I like developing websites/apps/softwares and competitive programming.
 - 🌱 My hobbies include playing cricket,tt,badminton,swimming and playing guitar.
 
-
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=hjain2003&theme=dracula)
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjain2003&show_icons=true,&count_private=true,&theme=radical)
+
 
 <b>Languages and Tools :</b><br>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
@@ -25,6 +27,8 @@
 <img src="https://img.icons8.com/color/344/markdown.png" height="35">
 <img src="https://img.icons8.com/fluency/344/matlab.png" height="35">
 <img src="https://blog.smile.io/content/images/2020/10/typeform.png" height="35">
+
+
 <!---
 hjain2003/hjain2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
