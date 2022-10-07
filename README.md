@@ -2,6 +2,8 @@
 - 👀 I like developing websites/apps/softwares and competitive programming.
 - 🌱 My hobbies include playing cricket,tt,badminton,swimming and playing guitar.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hjain2003)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjain2003&theme=radical)
 
 <b>Languages and Tools :</b><br>
