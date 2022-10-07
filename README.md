@@ -2,6 +2,7 @@
 - 👀 I like developing websites/apps/softwares and competitive programming.
 - 🌱 My hobbies include playing cricket,tt,badminton,swimming and playing guitar.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjain2003&theme=radical)
 
 <b>Languages and Tools :</b><br>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
