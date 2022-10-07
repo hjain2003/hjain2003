@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hjain2003)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjain2003&theme=radical)
+![GitHub Stats](https://github-profile-trophy.vercel.app/?username=hjain2003&theme=dracula)
 
 <b>Languages and Tools :</b><br>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
