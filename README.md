@@ -27,6 +27,7 @@
 <img src="https://img.icons8.com/color/344/markdown.png" height="35">
 <img src="https://img.icons8.com/fluency/344/matlab.png" height="35">
 <img src="https://blog.smile.io/content/images/2020/10/typeform.png" height="35">
+<img src="https://img.icons8.com/fluency/344/opencv.png" height="35">
 
 
 <!---
