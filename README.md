@@ -6,7 +6,6 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjain2003&show_icons=true,&count_private=true,&theme=radical)
 
-[![@hjain2003's Holopin board](https://holopin.io/api/user/board?user=hjain2003)](https://holopin.io/@hjain2003)
 <b>Languages and Tools :</b><br><br>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
 <img src="https://img.icons8.com/color/344/css3.png" height="35">
