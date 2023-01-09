@@ -28,7 +28,7 @@
 <img src="https://blog.smile.io/content/images/2020/10/typeform.png" height="35">
 <img src="https://img.icons8.com/fluency/344/opencv.png" height="35">
 <img src="https://appwrite.io/images-ee/press/square-logo-pink.svg" height="35">
-
+<img src="https://img.icons8.com/fluency/48/null/jupyter.png" height="35">
 <!---
 hjain2003/hjain2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
