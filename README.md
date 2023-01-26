@@ -26,6 +26,7 @@
 <img src="https://img.icons8.com/color/344/linux--v1.png" height="38">
 <img src="https://img.icons8.com/color/344/ubuntu--v1.png" height="35">
 <img src="https://img.icons8.com/color/344/bash.png" height="35">
+<img src="https://img.icons8.com/fluency/512/anaconda--v2.png" height="35">
 <img src="https://img.icons8.com/color/344/git.png" height="35">
 <img src="https://img.icons8.com/fluency/344/arduino.png" height="35">
 <img src="https://img.icons8.com/color/344/markdown.png" height="35">
