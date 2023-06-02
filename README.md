@@ -13,7 +13,9 @@
 <img src="https://img.icons8.com/color/512/chakra-ui.png" height="35">
 <img src="https://img.icons8.com/fluency/344/javascript.png" height="33">
 <img src="https://img.icons8.com/color/512/figma.png" height="35">
+<img src="https://img.icons8.com/?size=512&id=tBBf3P8HL0vR&format=png" height="35">
 <img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35">
+<img src="https://img.icons8.com/?size=512&id=54087&format=png" height="38">
 <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="33">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="33">
 <img src="https://img.icons8.com/color/344/python--v1.png" height="35">
