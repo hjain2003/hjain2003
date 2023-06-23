@@ -16,11 +16,13 @@
 <img src="https://img.icons8.com/?size=512&id=tBBf3P8HL0vR&format=png" height="35">
 <img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35">
 <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="38">
+<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" height="35">
 <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="33">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="33">
 <img src="https://img.icons8.com/color/344/python--v1.png" height="35">
 <img src="https://img.icons8.com/fluency/48/null/jupyter.png" height="35">
 <img src="https://img.icons8.com/fluency/344/opencv.png" height="35">
+<img src="https://remixproject.gallerycdn.vsassets.io/extensions/remixproject/ethereum-remix/0.0.12/1626777402692/Microsoft.VisualStudio.Services.Icons.Default" height="35">
 <img src="https://img.icons8.com/color/344/mysql-logo.png" height="40">
 <img src="https://img.icons8.com/color/344/flutter.png" height="33">
 <img src="https://camo.githubusercontent.com/9a45407f0a2a0c52f76b9458728049eca3ddb60ecec92a43f8cd2af93d253940/68747470733a2f2f7061676570726f2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f72656163742d6e61746976652d6c6f676f2d333234783337352e706e67" height="40">
