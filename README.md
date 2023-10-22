@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="33">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="33">
 <img src="https://img.icons8.com/color/344/python--v1.png" height="35">
+<img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png" height="35">
 <img src="https://img.icons8.com/fluency/48/null/jupyter.png" height="35">
 <img src="https://img.icons8.com/fluency/344/opencv.png" height="35">
 <img src="https://remixproject.gallerycdn.vsassets.io/extensions/remixproject/ethereum-remix/0.0.12/1626777402692/Microsoft.VisualStudio.Services.Icons.Default" height="35">
