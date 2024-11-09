@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harsh Jain, currently a third year at Thapar Univeristy, Patiala, pursuing Btech in COE(Computer Engineering)
-- 👀 I like developing websites/apps/softwares and competitive programming.
-- 🌱 I like playing cricket,tt,badminton,swimming and playing guitar.
+- 👀 I am interested in MERN Stack, Devops, Blockchain and competitive programming.
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=hjain2003&theme=dracula)
 
