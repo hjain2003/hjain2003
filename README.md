@@ -3,7 +3,6 @@
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=hjain2003&theme=dracula)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjain2003&show_icons=true,&count_private=true,&theme=radical)
 
 <b>Languages and Tools :</b><br><br>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
