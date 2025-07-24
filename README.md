@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Harsh Jain, currently a fourth year at Thapar Univeristy, Patiala, pursuing Btech in COE(Computer Engineering)
-- 👀 I am interested in MERN Stack, Devops, Cloud, Blockchain and Automation.
+- 👋 Hi, I’m Harsh Jain, completed my Btech, CSE from Thapar University
+- 👀 I am interested in Cloud, Devops, Automation, MERN and Blockchain
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=hjain2003&theme=dracula)
 
